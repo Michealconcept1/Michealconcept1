@@ -1,4 +1,4 @@
-- <h1>👋 Hi, My name is Olajide Michael XoXo Lariio</h1>
+- <h1>👋 Hi, My name is Olajide Michael lkk as Lariio</h1>
 
 - 💞️ I'm a Frontend Engineer
 - 👀 I’m interested in collaboration
