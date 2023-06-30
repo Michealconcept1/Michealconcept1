@@ -1,10 +1,11 @@
-- <h1>👋 Hi, My name is Olajide Michael Known as Ash_Code</h1>
+- <h1>👋 Hi, My name is Olajide Michael XoXo Lariio</h1>
 
-- 💞️ I'm a Frontend developer
-- 👀 I’m interested in React
-- 🌱 I’m currently learning JavaScript
+- 💞️ I'm a Frontend Engineer
+- 👀 I’m interested in collaboration
+- 🌱 I’m currently learning React and Vue JavaScript-based toolkit systems
 - 💞️ I’m looking to collaborate on JavaScript projects
-- 📫 How to reach me 
+- 📫 How to reach me https://twitter.com/LaRiI0o
+  
 
 <!---
 Michealconcept1/Michealconcept1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
